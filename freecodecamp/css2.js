@@ -9,7 +9,7 @@
     background-color: pink;
     height: 50px;
     width: 50px;
-    transform: rotate(-45dgr);
+    transform: rotate(-45deg);
 }
     .heart::after {
     background - color: pink;
@@ -32,6 +32,4 @@
     left: 0px;
 }
 </style>
-<body>
-    <div className="heart"></div>
-</body>
+<div className="heart"></div>
